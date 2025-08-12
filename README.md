@@ -1,4 +1,4 @@
-# learn-python
+# learn_python
 # Learning Python 🐍
 
 Welcome to my Python learning journey! This repository contains all the concepts, code snippets, notes, and practice problems I’ve worked on while learning Python.
