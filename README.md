@@ -34,6 +34,10 @@ I'm learning Python alongside my core subjects, so updates might be gradual — 
 
 Feel free to fork, explore, or suggest improvements 🙌
 
+Acknowledgment:
+Parts of this learning material were inspired by or adapted from the Bro Code YouTube channel.
+Check out their channel for more great programming tutorials: https://www.youtube.com/@BroCodez 
+
 ---
 
 ### Happy coding! ☕🐍
